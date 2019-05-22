@@ -1,2 +1,2 @@
-# Research and development with fast.ai
-fast.ai Project
+# fastai-research
+Research and development with fast.ai
